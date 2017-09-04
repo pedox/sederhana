@@ -1,0 +1,24 @@
+{
+  "name": "sederhana",
+  "version": "0.0.1",
+  "description": "Indonesia Stemmer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pedox/sederhana.git"
+  },
+  "keywords": [
+    "stem",
+    "stemmer",
+    "indonesia"
+  ],
+  "author": "Naufal <naudotval@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedox/sederhana/issues"
+  },
+  "homepage": "https://github.com/pedox/sederhana#readme"
+}
